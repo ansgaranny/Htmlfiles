@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <style>
+        body{
+            background-image: url("Assets/Images/logo.jpg");
+            background-size: cover;
+            background-color: aquamarine;
+        }
+        h2{
+            font-family: bold;
+            background-color: #0051ff;
+            text-align: center;
+            font-size: larger;
+        }
+        input{
+            background-color: #ffc9c4;
+            border: black dotted;
+        }
+        label{
+            border: #8e8383 solid;
+            font-family: Chilanka;
+        }
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Forms</title>
+</head>
+<body>
+<h2>Emobilis Registration Form</h2>
+<form action="">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="jina"required placeholder="Enter name"><br><br>
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="jina2"required placeholder="Enter name"><br><br>
+    <label for="email">Email</label>
+    <input type="email"id="email" name="barua pepe"required placeholder="Enter email"><br><br>
+    <label for="phone">Mobile No</label>
+    <input type="text" id="phone" name="nambari"required placeholder="Enter number"><br><br>
+    <label for="female">Female</label>
+    <input type="radio" id="female" name="gender">
+    <label for="male">Male</label>
+    <input type="radio" id="male" name="gender">
+    <label for="others">Custom</label>
+    <input type="radio"id="others" name="gender"><br><br>
+    <label for="course"> Course Taken</label>
+    <select name="course" id="course">
+        <option value="react js">React js</option>
+        <option value="android">Android</option>
+        <option value="cyber">Cyber Security</option>
+        <option value="data">Data Science</option>
+        <option value="machine">Machine Learning</option>
+        <option value="program">Programming</option>
+        <option value="ethnical">Ethnical Security</option>
+    </select><br><br>
+    <label for="upload">Upload Image</label>
+    <input type="file" id="upload" name="image"><br><br>
+    <label for="dob">Date of birth</label>
+    <input type="date" id="dob" name="tarehe"required placeholder="Enter date"><br><br>
+    <label for="pass">Password</label>
+    <input type="password" id="pass" name=" neno siri"required placeholder="Enter password"><br><br>
+
+    <input type="submit" value="Register">
+</form>
+</body>
+</html>

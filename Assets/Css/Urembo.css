@@ -1,0 +1,23 @@
+table{
+    width: 100%;
+    border-collapse:collapse ;
+    margin: 20px;
+}
+td,th{
+    border: 5px solid #8e8383;
+    padding: 15px;
+    font-size: larger;
+}
+th{
+    font-size: larger;
+    color: red;
+}
+h2{
+    color: #0051ff;
+    text-align: center;
+    font-size: larger;
+}
+tr:nth-child(even){
+    background-color: aquamarine;
+}
+

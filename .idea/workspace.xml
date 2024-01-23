@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28241e04-5d03-4b09-aae8-844a759d4a24" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2akv6QxRKuV0WOUizAUn4QtInvp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.heading.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assets/Images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="heading.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ansyhtml/heading.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.heading.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28241e04-5d03-4b09-aae8-844a759d4a24" name="Changes" comment="" />
+      <created>1704875217203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704875217203</updated>
+      <workItem from="1704875221321" duration="4986000" />
+      <workItem from="1704948529671" duration="15000" />
+      <workItem from="1704960860043" duration="888000" />
+      <workItem from="1704962482165" duration="7427000" />
+      <workItem from="1705034687431" duration="23000" />
+      <workItem from="1705046457257" duration="399000" />
+      <workItem from="1705047030906" duration="499000" />
+      <workItem from="1705047642155" duration="9061000" />
+      <workItem from="1705293820654" duration="14000" />
+      <workItem from="1705306532292" duration="8967000" />
+      <workItem from="1705380161097" duration="80000" />
+      <workItem from="1705393131874" duration="5287000" />
+      <workItem from="1705398874308" duration="609000" />
+      <workItem from="1705399526931" duration="979000" />
+      <workItem from="1705400553902" duration="479000" />
+      <workItem from="1705405672102" duration="2672000" />
+      <workItem from="1705466477502" duration="61000" />
+      <workItem from="1705479314294" duration="7761000" />
+      <workItem from="1705495504969" duration="1000" />
+      <workItem from="1705565276700" duration="5401000" />
+      <workItem from="1705570739478" duration="1762000" />
+      <workItem from="1705573834983" duration="199000" />
+      <workItem from="1705574214423" duration="1198000" />
+      <workItem from="1705652449514" duration="42000" />
+      <workItem from="1705653239317" duration="22000" />
+      <workItem from="1705653398236" duration="276000" />
+      <workItem from="1705656069271" duration="73000" />
+      <workItem from="1705657662384" duration="349000" />
+      <workItem from="1705658393569" duration="42000" />
+      <workItem from="1705658516314" duration="41000" />
+      <workItem from="1705659618632" duration="34000" />
+      <workItem from="1705910724918" duration="95000" />
+      <workItem from="1705912313244" duration="89000" />
+      <workItem from="1705912494974" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

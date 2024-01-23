@@ -1,0 +1,23 @@
+.fruits{
+    border: 3px solid blue;
+    text-align: center;
+    font-family: Chilanka;
+    background-color: dimgray;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+.cars{
+    border:3px solid yellow ;
+    text-align: center;
+    margin: auto;
+    background-color: darkorchid;
+    font-family: bold;
+}
+.Fruits{
+    border: 3px solid black;
+    text-align: center;
+    font-family: aakar;
+    background-color: chartreuse;
+    margin: 22px;
+}
